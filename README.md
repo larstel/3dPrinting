@@ -1,0 +1,4 @@
+- Anet A8
+- glass bed
+- LJC18A3-H-Z/BX 1-10mm Capacitance Proximity Sensor NPN
+- marlin firmware
